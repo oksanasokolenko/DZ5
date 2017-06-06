@@ -1,0 +1,41 @@
+div {
+  border: 1px solid red;
+}
+.fullwrap {
+  width: 466px;
+margin: 50px, auto;
+padding: 12px 9px;
+}
+.header {
+  height: 60px;
+  margin-top: -3px;
+  margin-right: 1px;
+}
+.wrap{
+  padding: 11px 9px;
+  margin-top: 12px;
+  margin-right: 1px;
+  clear: both;
+  height: 294px;
+}
+.main{
+  width: 228px;
+  height: 274px;
+  float: left;
+  padding: 9px 12px;
+  margin: -1px;
+}
+.bar{
+  width: 141px;
+  height: 274px;
+  float: right;
+  padding: 9px 12px;
+
+}
+.footer {
+  height: 97px;
+  margin-top: 11px;
+  margin-bottom: 4px;
+  margin-right: 1px;
+
+}
