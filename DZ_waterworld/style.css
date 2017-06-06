@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+}
+
+.main {
+  width: 550px;
+  height: 439px;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background: #80cdc6;
+}
+.world{
+  width: 550px;
+  position: absolute;
+  top: 94px;
+
+}
+.water{
+  position: absolute;
+  z-index: 3;
+  width: 550px;
+top: 393px;
+
+}
+.ship {
+  position: absolute;
+  z-index: 2;
+  width: 115px;
+  top: 289px;
+left: 7px;
+}
+.clouds {
+  position: absolute;
+  z-index: 2;
+  width: 350px;
+  top: 0;
+right: 0;
+}
