@@ -1,4 +1,4 @@
-.main{
+.wrap{
   width: 644px;
   height: 1640px;
   background: #d1d1d1;
@@ -17,6 +17,10 @@
       font-family: sans-serif;
           padding: 47px 30px 7px 30px;
     line-height: 40px;
+    }
+    .text-center {
+      text-align: center;
+      margin: 0;
     }
     .main-paragrapf {
       margin: -10px 24px -11px 9px;
